@@ -10,4 +10,4 @@
 
 [Codes](https://github.com/mohsenshafiei/react-knowledgeable-talk/tree/master/code)
 
-'NOTE: Codes are not exact and they can be just used to share the main idea.'
+`NOTE: Codes are not exact and they can be just used to share the main idea.`
